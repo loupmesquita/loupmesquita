@@ -1,4 +1,4 @@
-![bannerl](https://github.com/loupmesquita/Test_profile/assets/57537562/7f28f700-4a6d-43b9-823e-7bb6c27b08cd)(https://www.linkedin.com/company/flylens)
+[![bannerl](https://github.com/loupmesquita/Test_profile/assets/57537562/7f28f700-4a6d-43b9-823e-7bb6c27b08cd)(https://www.linkedin.com/company/flylens)]
 <br/>
 <div align="center"> 
   
