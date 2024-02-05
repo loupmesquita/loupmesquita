@@ -1,6 +1,8 @@
-[![bannerl](https://github.com/loupmesquita/Test_profile/assets/57537562/7f28f700-4a6d-43b9-823e-7bb6c27b08cd)](https://www.linkedin.com/company/flylens)
+[![bannerl](https://github.com/loupmesquita/loupmesquita/assets/57537562/689a08a0-ab71-4881-96ce-61a24e085b62)](https://www.linkedin.com/company/flylens)
 <br/>
 <div align="center"> 
+
+
   
 ### 🛠️ Currently updating my profile 🛠️ <br/> <br/>
 
