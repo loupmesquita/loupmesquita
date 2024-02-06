@@ -45,6 +45,8 @@
   📂 Cloud/DevOps Projects
 </h2>
 
+[![Poll-Containerization](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Poll-Containerization&theme=tokyonight&show_icons=true)](https://github.com/loupmesquita/Poll-Containerization) 
+
 
 </details>
 
