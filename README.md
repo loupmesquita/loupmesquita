@@ -38,8 +38,8 @@
   📂 Security Projects
 </h2>
 
-[![CryptographyChallenges](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=CryptographyChallenges&theme=shadow_red&show_icons=true)](https://github.com/loupmesquita/CryptographyChallenges) 
-[![RubyCaesar](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=RubyCaesar&theme=shadow_red&show_icons=true)](https://github.com/loupmesquita/RubyCaesar) 
+[![CryptographyChallenges](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=CryptographyChallenges&theme=merko&show_icons=true)](https://github.com/loupmesquita/CryptographyChallenges) 
+[![RubyCaesar](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=RubyCaesar&theme=merko&show_icons=true)](https://github.com/loupmesquita/RubyCaesar) 
 
 <h2 id="clouddevops">
   📂 Cloud/DevOps Projects
