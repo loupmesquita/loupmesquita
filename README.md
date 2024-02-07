@@ -47,8 +47,7 @@
 
 [![Poll-Containerization](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Poll-Containerization&theme=tokyonight&show_icons=true)](https://github.com/loupmesquita/Poll-Containerization) 
 [![Automated-Tests](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Automated-Tests&theme=tokyonight&show_icons=true)](https://github.com/loupmesquita/Automated-Tests) 
-
-Automated-Tests
+[![Orchestration-Containerized-Application](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Orchestration-Containerized-Application&theme=tokyonight&show_icons=true)](https://github.com/loupmesquita/Orchestration-Containerized-Application) 
 
 </details>
 
