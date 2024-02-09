@@ -31,7 +31,7 @@
 [![Groundhog](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Groundhog&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Groundhog) 
 [![101pong_2019](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=101pong_2019&theme=outrun&show_icons=true)](https://github.com/loupmesquita/101pong_2019) 
 [![Logistic-Map](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Logistic-Map&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Logistic-Map) 
-
+[![Analyzing-Stock-Prices](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Analyzing-Stock-Prices&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Analyzing-Stock-Prices) 
 
 
 <h2 id="Security">
