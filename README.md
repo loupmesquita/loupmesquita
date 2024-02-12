@@ -34,6 +34,8 @@
 [![Analyzing-Stock-Prices](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Analyzing-Stock-Prices&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Analyzing-Stock-Prices) 
 [![Clustering-Housing-Data](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Clustering-Housing-Data&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Clustering-Housing-Data) 
 [![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
+[![Deep-Learning-Keras](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Deep-Learning-Keras&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Deep-Learning-Keras)
+
 
 
 
