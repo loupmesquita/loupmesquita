@@ -24,8 +24,7 @@
 
 [![Exploitation-Exploration-Compromise](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Exploitation-Exploration-Compromise&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Exploitation-Exploration-Compromise) 
 [![Company-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Company-Clustering&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Company-Clustering)] <br/>
-
-[![Data-Distribution](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Data-Distribution&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Data-Distribution) 
+[![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
 [![TeamAsclepius](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=TeamAsclepius&theme=outrun&show_icons=true)](https://github.com/loupmesquita/TeamAsclepius) <br/>
 
 [![Groundhog](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Groundhog&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Groundhog) 
@@ -33,7 +32,8 @@
 [![Logistic-Map](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Logistic-Map&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Logistic-Map) 
 [![Analyzing-Stock-Prices](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Analyzing-Stock-Prices&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Analyzing-Stock-Prices) 
 [![Clustering-Housing-Data](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Clustering-Housing-Data&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Clustering-Housing-Data) 
-[![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
+[![Data-Distribution](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Data-Distribution&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Data-Distribution) 
+
 [![Deep-Learning-Keras](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Deep-Learning-Keras&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Deep-Learning-Keras)
 [![Networks-Basics](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Networks-Basics&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Networks-Basics)
 [![Network-Measures](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Network-Measures&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Network-Measures)
