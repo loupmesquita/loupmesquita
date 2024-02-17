@@ -23,7 +23,7 @@
 [![Dimensionality-Reduction](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Dimensionality-Reduction&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Dimensionality-Reduction) <br/>
 
 [![Exploitation-Exploration-Compromise](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Exploitation-Exploration-Compromise&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Exploitation-Exploration-Compromise) 
-[![Company-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Company-Clustering&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Company-Clustering)] <br/>
+[![Company-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Company-Clustering&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Company-Clustering) <br/>
 [![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
 [![TeamAsclepius](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=TeamAsclepius&theme=outrun&show_icons=true)](https://github.com/loupmesquita/TeamAsclepius) <br/>
 
