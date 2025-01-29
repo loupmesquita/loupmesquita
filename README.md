@@ -26,7 +26,6 @@
 [![Classification-NBA](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Classification-NBA&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Classification-NBA) 
 [![Exploitation-Exploration-Compromise](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Exploitation-Exploration-Compromise&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Exploitation-Exploration-Compromise)
 [![Company-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Company-Clustering&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Company-Clustering)
-[![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
 [![TeamAsclepius](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=TeamAsclepius&theme=outrun&show_icons=true)](https://github.com/loupmesquita/TeamAsclepius) 
 
 [![Groundhog](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Groundhog&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Groundhog) 
@@ -39,6 +38,7 @@
 [![Deep-Learning-Keras](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Deep-Learning-Keras&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Deep-Learning-Keras)
 [![Networks-Basics](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Networks-Basics&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Networks-Basics)
 [![Network-Measures](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Network-Measures&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Network-Measures)
+[![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
 
 
 <h2 id="Security">
