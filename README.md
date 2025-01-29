@@ -20,15 +20,15 @@
 </h2>
 
 [![Unsupervised-Learning-Thyroid-Diseases](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Unsupervised-Learning-Thyroid-Diseases&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Unsupervised-Learning-Thyroid-Diseases) 
-[![Supervised-Learning-Thyroid-Diseases](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Supervised-Learning-Thyroid-Diseases&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Supervised-Learning-Thyroid-Diseases) 
+[![Supervised-Learning-Thyroid-Diseases](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Supervised-Learning-Thyroid-Diseases&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Supervised-Learning-Thyroid-Diseases) <br/>
 [![Regression-Windfarm](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Regression-Windfarm&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Regression-Windfarm) 
 [![Dimensionality-Reduction](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Dimensionality-Reduction&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Dimensionality-Reduction) <br/>
-[![Classification-NBA](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Classification-NBA&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Classification-NBA) <br/>
+[![Classification-NBA](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Classification-NBA&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Classification-NBA) 
 
-[![Exploitation-Exploration-Compromise](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Exploitation-Exploration-Compromise&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Exploitation-Exploration-Compromise) 
-[![Company-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Company-Clustering&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Company-Clustering) <br/>
-[![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) 
-[![TeamAsclepius](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=TeamAsclepius&theme=outrun&show_icons=true)](https://github.com/loupmesquita/TeamAsclepius) <br/>
+[![Exploitation-Exploration-Compromise](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Exploitation-Exploration-Compromise&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Exploitation-Exploration-Compromise) <br/>
+[![Company-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Company-Clustering&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Company-Clustering)
+[![Machine-Learning-Techniques](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Machine-Learning-Techniques&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Machine-Learning-Techniques) <br/>
+[![TeamAsclepius](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=TeamAsclepius&theme=outrun&show_icons=true)](https://github.com/loupmesquita/TeamAsclepius) 
 
 [![Groundhog](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Groundhog&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Groundhog) 
 [![101pong_2019](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=101pong_2019&theme=outrun&show_icons=true)](https://github.com/loupmesquita/101pong_2019) 
