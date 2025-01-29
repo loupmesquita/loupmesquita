@@ -20,9 +20,9 @@
 </h2>
 
 [![Unsupervised-Learning-Thyroid-Diseases](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Unsupervised-Learning-Thyroid-Diseases&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Unsupervised-Learning-Thyroid-Diseases) 
-[![Supervised-Learning-Thyroid-Diseases](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Supervised-Learning-Thyroid-Diseases&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Supervised-Learning-Thyroid-Diseases) <br/>
+[![Supervised-Learning-Thyroid-Diseases](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Supervised-Learning-Thyroid-Diseases&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Supervised-Learning-Thyroid-Diseases) 
 [![Regression-Windfarm](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Regression-Windfarm&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Regression-Windfarm) 
-[![Dimensionality-Reduction](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Dimensionality-Reduction&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Dimensionality-Reduction) <br/>
+[![Dimensionality-Reduction](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Dimensionality-Reduction&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Dimensionality-Reduction) 
 [![Classification-NBA](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Classification-NBA&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Classification-NBA) 
 
 [![Exploitation-Exploration-Compromise](https://github-readme-stats.vercel.app/api/pin/?username=loupmesquita&repo=Exploitation-Exploration-Compromise&theme=outrun&show_icons=true)](https://github.com/loupmesquita/Exploitation-Exploration-Compromise) <br/>
